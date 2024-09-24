@@ -1,5 +1,5 @@
 document.getElementById('blog-btn').addEventListener('click',function(){
-    window.location.href='/Home.html';
+    window.location.href='./Home.html';
 })
 
 document.getElementById('btn-1').addEventListener('click',function(event){
